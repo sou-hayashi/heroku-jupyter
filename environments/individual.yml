@@ -1,0 +1,6 @@
+name: root
+dependencies:
+  - scipy
+  - scikit-learn
+  - networkx
+  - bokeh
